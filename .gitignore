@@ -1,0 +1,8 @@
+# c++ executables
+*.out
+
+# vs code config files
+.vscode
+
+# local test cpp file
+test.cpp
