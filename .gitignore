@@ -6,3 +6,6 @@
 
 # local test cpp file
 test.cpp
+
+# bin exe
+*.out
